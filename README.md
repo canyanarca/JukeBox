@@ -5,4 +5,4 @@ I used C#, HTML-CSS-JavaScript, .NET MVC Pattern, .NET Web API, .NET Identity, E
 
 The project is a Game Library Platform where users can download or upload their games mostly for Indie developers. 
 
-The project is not yet finished and is only for reviewing purposes.
+The project is not yet finished (there are more features to be added) and is only for reviewing purposes.

@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\bootstrap-social.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-social.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\templatemo-lugx-gaming.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-lugx-gaming.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\css\\templatemo_style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo_style.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\brawlhalla.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brawlhalla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\caption-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\caption-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\categories-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\categories-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\categories-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\categories-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\categories-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\featured-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.png"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\featured-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.png"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\featured-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.png"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\featured-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-04.png"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\logo.PNG",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.PNG"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\not-provided.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\not-provided.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\page-heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\single-game.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-game.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\skyrim.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\skyrim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\top-game-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\top-game-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\trending-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\trending-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\trending-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\images\\trending-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\trending-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canya\\source\\repos\\JukeBox\\JukeBox\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JukeBox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JukeBox.props",
+      "PackagePath": "build\\JukeBox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JukeBox.props",
+      "PackagePath": "buildMultiTargeting\\JukeBox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JukeBox.props",
+      "PackagePath": "buildTransitive\\JukeBox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,104 @@
+﻿@{
+    Layout = "_LayoutLoggedIn";
+}
+
+@model List<JukeBox.Models.ViewModels.GameCategoryViewModel>
+
+<div class="main-banner">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 align-self-center">
+                <div class="caption header-text">
+                    <h6>Welcome to JukeBox</h6>
+                    <h2>BEST GAMING SITE EVER!</h2>
+                </div>
+            </div>
+            <div class="col-lg-4 offset-lg-2">
+                <div class="right-image">
+                    <img src="~/assets/images/logo.PNG" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section trending">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="section-heading">
+                    <h6>Trending</h6>
+                    <h2>Trending Games</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="main-button">
+                    <a href="/Home/Games">View All</a>
+                </div>
+            </div>
+            @foreach (var item in Model.Take(4))
+            {
+                <div class="col-lg-3 col-md-6">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="/Home/Detail/@item.Game.UrlName"><img src="~/assets/images/@item.Game.Image" alt=""></a>
+                            <span class="price">
+                                FREE
+                            </span>
+                        </div>
+                        <div class="down-content">
+                            <span class="category">
+                                @foreach (var category in item.Categories)
+                                {
+                                    <span>@category.Name</span>
+                                }
+                            </span>
+                            <h4>@item.Game.Name</h4>
+                            <a href="/Home/Detail/@item.Game.UrlName"><i class="fa fa-shopping-bag"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div class="section most-played">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="section-heading">
+                    <h6>TOP GAMES</h6>
+                    <h2>Most Played</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="main-button">
+                    <a href="/Home/Games">View All</a>
+                </div>
+            </div>
+
+            @{
+                var randomGames = Model.OrderBy(_ => Guid.NewGuid()).Take(6);
+            }
+
+            @foreach (var item in randomGames)
+            {
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                    <div class="item">
+                        <div class="thumb">
+                            <a href="/Home/Detail/@item.Game.UrlName"><img src="~/assets/images/@item.Game.Image" alt=""></a>
+                        </div>
+                        <div class="down-content">
+                            <span class="category"></span>
+                            @foreach (var category in item.Categories)
+                            {
+                                <span>@category.Name</span>
+                            }
+                            <h4>@item.Game.Name</h4>
+                            <a href="/Home/Detail/@item.Game.UrlName">Explore</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "_LayoutLoggedIn";
+}
+@model JukeBox.Models.ViewModels.GameViewModel
+<div class="page-heading header-text">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h3>Add Games</h3>
+          <span class="breadcrumb"><a href="#">Home</a>  >  Add Games</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="contact-page section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 align-self-center">
+                <div class="left-text">
+                    <div class="section-heading">
+                        <h6>Add Games</h6>
+                        <h2>Submit Your Games</h2>
+                    </div>
+                    <p>
+                        At JukeBox, we're all about enhancing your gaming experience, and now you can be a part of it! Our 'Add Game' feature empowers you to contribute to our diverse gaming community and share your favorite titles with fellow gamers.
+
+                        Have a fantastic game in mind that you believe the world needs to discover? Want to showcase your unique creation to an eager audience? You're just a few steps away from making it happen.
+                    </p>
+                    <form id="address-email-form" onsubmit="updateAddressEmail(event)">
+                        <div class="form-group">
+                            <label for="submissionAddress">Game Submission Address</label>
+                            <input type="text" class="form-control" id="submissionAddress" name="submissionAddress" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="contactEmail">Contact Email</label>
+                            <input type="email" class="form-control" id="contactEmail" name="contactEmail" required>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="right-content">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <form asp-controller="Home" asp-action="AddGame" method="post" enctype="multipart/form-data">
+                                <div class="form-group">
+                                    <label asp-for="Name">Game Name</label>
+                                    <input asp-for="Name" class="form-control" required>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Description">Description</label>
+                                    <textarea asp-for="Description" class="form-control" required></textarea>
+                                </div>
+                                <div class="form-group">
+                                    <label for="gameImage">Game Image</label>
+                                    <input type="file" asp-for="Image" class="form-control-file" id="gameImage" name="gameImage">
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit Game</button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
